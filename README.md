@@ -16,7 +16,7 @@ Currently **Principal Engineer at [NearX](https://github.com/Nearx-Labs)**, lead
 - Made follower data import 6x faster with RocksDB-native replication
 - Designed multi-region disaster recovery and an automated benchmarking pipeline
 
-**[TUSST](https://github.com/pedro-pelicioni/tusst)**, an open source developer onboarding and tooling platform for Stellar, featuring the Forge browser IDE for Soroban (Rust compiler + WebAssembly, real-time code execution). Funded through the Stellar Foundation Hackathon and selected for Stellar Kickstart Cohort #7. Live at [tusst.xyz](https://tusst.xyz). Also maintainer of SoroPG after a community handover.
+**[TUSST](https://github.com/pedro-pelicioni/tusst)**, an open source developer onboarding and tooling platform for Stellar, featuring the Forge browser IDE for Soroban (Rust compiler + WebAssembly, real-time code execution). Funded through the Stellar Foundation Hackathon and selected for Stellar Kickstart Cohort #7. Live at [tusst.xyz](https://tusst.xyz).
 
 **Vants**, a non-custodial DeFi venture on Stellar: a global account for crypto yield and everyday spending through regional rails (Pix, SPEI, CBU). SDF grant backed, InstaAwards winner.
 
